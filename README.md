@@ -18,7 +18,7 @@
 git clone git@github.com:idben/phpUpload01.git .
 ```
 
-### 操作圖示
+## 操作圖示
 ![操作圖示](https://github.com/idben/phpUpload01/blob/main/images/info1.png)
-### 結果圖示
+## 結果圖示
 ![結果圖示](https://github.com/idben/phpUpload01/blob/main/images/info2.png)
