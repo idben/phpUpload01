@@ -8,6 +8,6 @@
 6. 其他寫入的部份請照上課的老師教的做，這個範例只是講述如何整理資料
 
 ### 操作圖示
-[操作圖示](https://github.com/idben/phpUpload01/blob/main/images/info1.png)
+![操作圖示](https://github.com/idben/phpUpload01/blob/main/images/info1.png)
 ### 結果圖示
-[結果圖示](https://github.com/idben/phpUpload01/blob/main/images/info2.pngg)
+![結果圖示](https://github.com/idben/phpUpload01/blob/main/images/info2.pngg)
